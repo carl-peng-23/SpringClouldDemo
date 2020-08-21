@@ -9,3 +9,5 @@ ribben负载均衡
 
 --Feign远程调用 + hystrix熔断例子
 
+并且可以监控HystrixCommand的执行信息
+
